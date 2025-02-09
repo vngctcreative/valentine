@@ -8,7 +8,8 @@ const messages = [
     "Chồng sẽ rất buồn nếu như vợ không đồng ý...",
     "Chồng sẽ rất rất rất rất rất buồn...",
     "Được rồi, chồng sẽ ngừng hỏi...",
-    "Đùa thôi mà, làm ơn nói có đi !!! ❤️"
+    "Đùa thôi mà, làm ơn nói có đi !!! ❤️",
+    "Năn nỉ vợ đó, chồng yêu em rất nhiều ❤️"
 ];
 
 let messageIndex = 0;
